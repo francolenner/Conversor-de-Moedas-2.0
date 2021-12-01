@@ -58,7 +58,7 @@ changeCurrency = () => {
         currencyName.innerHTML = "Bitcoin"
         currencyImg.src = "../Aula 15 Projeto HTML/assets/Bitcoin.svg"
     }
-
+ 
     convertValues()
 }
 
