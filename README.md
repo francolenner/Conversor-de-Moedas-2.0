@@ -15,7 +15,7 @@ Projeto de converção de moedas, ele converte do Real para o Dólar, Euro e Bit
 
 ## Link para testar o Convertor
 
-Link: (https://francolenner.github.io/Convertor-de-Moedas/)
+Link: (https://francolenner.github.io/Conversor-de-Moedas/)
 
 ## 👋 Feito por
 <table>
