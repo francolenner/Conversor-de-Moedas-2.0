@@ -46,17 +46,17 @@ changeCurrency = () => {
 
     if (select.value === 'US$ Dólar americano') {
         currencyName.innerHTML = "Dólar americano"
-        currencyImg.src = "../Aula 15 Projeto HTML/assets/Eua.svg"
+        currencyImg.src = "assets/Eua.svg"
     }
 
     if (select.value === '€ Euro') {
         currencyName.innerHTML = "Euro"
-        currencyImg.src = "../Aula 15 Projeto HTML/assets/Euro.svg"
+        currencyImg.src = "assets/Euro.svg"
     }
 
     if (select.value === 'Ƀ Bitcoin') {
         currencyName.innerHTML = "Bitcoin"
-        currencyImg.src = "../Aula 15 Projeto HTML/assets/Bitcoin.svg"
+        currencyImg.src = "assets/Bitcoin.svg"
     }
   
     convertValues()
